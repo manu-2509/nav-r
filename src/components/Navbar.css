@@ -1,0 +1,21 @@
+.navbar{
+    display:flex;
+    justify-content: space-between ;
+    padding-left:90px;
+    padding-right:90px;
+}
+.btn{
+    border-radius:15px;
+    color:white;
+    background-color:teal;
+    height:35px;
+    width: 80px;
+    margin:13px;
+}
+.mid{
+    display:flex;
+    justify-content: space-between;
+    width:17%;
+    font-size:14px;
+    margin-top:5px;
+}
